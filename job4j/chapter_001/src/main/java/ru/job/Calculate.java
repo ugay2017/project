@@ -6,12 +6,12 @@ package ru.job;
  * @version $Id$
  * @since 0.1
  */
-class Calculate {
+public class Calculate {
 	/**
      * echo.
      * @param value-value.
      */
-    String echo(String value) {
+    public String echo(String value) {
 		return String.format("%s %s %s", value, value, value);
 	}
 }
