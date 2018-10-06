@@ -9,7 +9,7 @@ import static org.junit.Assert.assertThat;
  *
  * @author Ugay Stas (ugay8010@gmail.com)
  * @version $Id$
- * @since 0.1
+ * @since 0.1 а
  */
 public class CalculateTest {
 	  /**
