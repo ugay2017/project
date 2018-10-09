@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81205181-3399-476e-8f60-cbf76693d8e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/DummyBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Fit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/ArrayChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/FindLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/MatrixCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/main/java/ru/job/massives/Turn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/ConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/DummyBotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/FitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/MaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/ArrayCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/BubbleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/CheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/DuplicatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/FindLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/MatrixCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job4j/chapter_001/src/test/java/ru/job/massives/TurnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/massives/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/massives/MAx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/massives/Sirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/massives/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/massives/Teranova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rali/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rali/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/massives/SirtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job4j/chapter_001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../job4j/chapter_001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job4j/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../job4j/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1137313759">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2065" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2065" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Loop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rali/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rali/ArrayExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/massives/Sirt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/massives/SirtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/massives/MAx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/massives/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/massives/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/massives/Teranova.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lesson" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="346" />
+    <option name="y" value="19" />
+    <option name="width" value="916" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539074294088" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="massives" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Teranova">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massives.Bubble" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MAx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massives.MAx" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massives.Sort" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teranova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massives.Teranova" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SirtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="massives" />
+      <option name="MAIN_CLASS_NAME" value="massives.SirtTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SirtTest" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.MAx" />
+      <item itemvalue="Application.Bubble" />
+      <item itemvalue="Application.Teranova" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teranova" />
+        <item itemvalue="Application.Bubble" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.MAx" />
+        <item itemvalue="JUnit.SirtTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81205181-3399-476e-8f60-cbf76693d8e8" name="Default Changelist" comment="" />
+      <created>1538912076268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538912076268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SirtTest_selectionSort - 2018.10.07 at 17h 04m 21s.xml">
+      <configuration name="SirtTest.selectionSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SirtTest - 2018.10.07 at 17h 04m 34s.xml">
+      <configuration name="SirtTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="346" y="19" width="916" height="665" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2593458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32833022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32645404" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.32943925" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rali/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massives/Sirt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/massives/SirtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rali/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massives/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massives/MAx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massives/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massives/Teranova.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lesson</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
