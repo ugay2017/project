@@ -4,7 +4,7 @@ public class Diagnose {
     private String diagnose;
 
     public String getDiagnose() {
-        return this.diagnose;
+        return diagnose;
     }
     public void setDiagnose(String diagnose) {
         this.diagnose = diagnose;
