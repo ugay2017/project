@@ -13,9 +13,18 @@ public class Computer {
     private String factoryNumber;
     private int cpuNumber;
     private int height;
+
+    public boolean isCdReadable() {
+        return cdReadable;
+    }
+
+    public void setCdReadable(boolean cdReadable) {
+        this.cdReadable = cdReadable;
+    }
+
     private int width;
 
-
+private boolean cdReadable;
 
     public String getName() {
         return name;
@@ -107,15 +116,30 @@ public class Computer {
     }
 
     public void on() {
-        System.out.println("I am on "+ name);
+
+        print("I am on "+ name);
     }
 
     public void off() {
-        System.out.println("I am off "+ram);
+
+       print("I am off "+ram);
     }
 
     public void load() {
-        System.out.println("I am load "+hdd+" GB");
+
+       print("I am load "+hdd+" GB");
+    }
+
+    public void reboot() {
+        print("I am load");
+    }
+
+    public void readCD() {
+        if(cdReadable) {
+            print("Считываю диск");
+        }else {
+            print("Не могу считать диск, устройство не поддерживается.");
+        }
     }
 
     private void print(String str) {

@@ -16,6 +16,13 @@ public class MyFirstProgram {
         comp.load();
 
                  comp.setFactoryNumber("     ");
-        System.out.println(comp.getFactoryNumber());
+
+
+        comp.readCD();
+        comp.setCdReadable(true);
+        comp.readCD();
+
+
+      //  System.out.println(comp.getFactoryNumber());
     }
 }
