@@ -117,4 +117,8 @@ public class Computer {
     public void load() {
         System.out.println("I am load "+hdd+" GB");
     }
+
+    private void print(String str) {
+        System.out.println(str);
+    }
 }
