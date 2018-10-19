@@ -9,10 +9,86 @@ public class Computer {
     private int hdd;
 
     private double weight;
+    private boolean cdReadable;
 
     private String factoryNumber;
     private int cpuNumber;
     private int height;
+
+    /*Dop zadanie*/
+
+    private Computer[] userComps;//массив всех созданных компьютеров
+    private boolean adminComp;//указатель, является ли текущий компьютер админским
+    private String status = "nothing";//текущее состояние компьютера
+
+    /*``````````````*/
+
+    public Computer[] getUserComps() {
+        return userComps;
+    }
+
+    public void setUserComps(Computer[] userComps) {
+        this.userComps = userComps;
+    }
+
+    public boolean isAdminComp() {
+        return adminComp;
+    }
+
+    public void setAdminComp(boolean adminComp) {
+        this.adminComp = adminComp;
+    }
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+
+    /**
+     * Конструкторы
+     *
+     * */
+    public Computer() {
+        on();
+
+    }
+
+    public Computer(String name) {
+        this.name = name;
+    }
+
+    public Computer(String name, boolean adminComp) {
+        this.name = name;
+        this.adminComp = adminComp;
+    }
+
+    public Computer(int ram) {
+        this.ram = ram;
+    }
+
+    public Computer(double weight) {
+        this.weight = weight;
+    }
+
+    public Computer(boolean cdReadable) {
+        this.cdReadable = cdReadable;
+    }
+
+    public Computer(String name, int ram, int hdd, double weight, boolean cdReadable) {
+        this.name = name;
+        this.ram = ram;
+        this.hdd = hdd;
+        this.weight = weight;
+        this.cdReadable = cdReadable;
+    }
+
+
+/**********************************/
+
+
 
     public boolean isCdReadable() {
         return cdReadable;
@@ -24,7 +100,7 @@ public class Computer {
 
     private int width;
 
-private boolean cdReadable;
+
 
     public String getName() {
         return name;
@@ -115,6 +191,8 @@ private boolean cdReadable;
         this.width = width;
     }
 
+
+
     public void on() {
 
         print("I am on "+ name);
@@ -122,7 +200,11 @@ private boolean cdReadable;
 
     public void off() {
 
-       print("I am off "+ram);
+     if(!status.equals("running")) {
+         print(name+ " : включился");
+     } else {
+         print(name+ " : невозможно включить. есть незавершенные задачи.");
+     }
     }
 
     public void load() {
@@ -140,6 +222,40 @@ private boolean cdReadable;
         }else {
             print("Не могу считать диск, устройство не поддерживается.");
         }
+    }
+
+    public void rebootUserComps() {
+        if(!adminComp) {
+            System.out.println("У компьютера "+name+" нет прав на перезвгрузку. Это не админский компьютер.");
+            return;
+        }
+
+        for(int i = 0; i < userComps.length; i++){
+            userComps[i].reboot();
+        }
+        System.out.println();
+    }
+
+    public void shutdownUserComps() {
+        if(!adminComp) {
+            System.out.println("У компьютера "+name+" нет прав на включение. Это не админский компьютер.");
+            return;
+        }
+        for(int i = 0; i < userComps.length; i++) {
+            userComps[i].off();
+        }
+        System.out.println();
+    }
+
+    public void switchOnUserComps() {
+        if(!adminComp) {
+            System.out.println("У компьютера "+name+" нет прав на включение. Это не админский компьютер.");
+            return;
+        }
+        for(int i = 0; i < userComps.length; i++) {
+            userComps[i].on();
+        }
+        System.out.println();
     }
 
     private void print(String str) {
