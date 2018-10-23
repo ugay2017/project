@@ -1,0 +1,20 @@
+
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>PhoneBook</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <parent>
+        <groupId>com.mycompany.app</groupId>
+        <artifactId>OTR</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+</project>
