@@ -1,24 +1,18 @@
 <project>
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.mycompany.app</groupId>
-	<artifactId>OTR</artifactId>
-	<version>1.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	
-	
-	 <properties>
+	    <modelVersion>4.0.0</modelVersion>
+	    <groupId>com.mycompany.app</groupId>
+	    <artifactId>OTR</artifactId>
+	    <version>1.0-SNAPSHOT</version>
+	    <packaging>pom</packaging>
+    <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-
-      <modules>
+    <modules>
         <module>IpAddress</module>
         <module>PhoneBook</module>
     </modules>
-
-
     <dependencies>
         <dependency>
             <groupId>org.hamcrest</groupId>
@@ -33,6 +27,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-
 </project>
