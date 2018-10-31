@@ -53,7 +53,7 @@ public class Computer {
      * */
     public Computer() {
         on();
-
+        System.out.println("constructor");
     }
 
     public Computer(String name) {
@@ -258,7 +258,7 @@ public class Computer {
         System.out.println();
     }
 
-    private void print(String str) {
+    protected void print(String str) {
         System.out.println(str);
     }
 }
