@@ -3,6 +3,8 @@ package MyFirstprogram;
 import Inheritance.objects.Comp;
 import Inheritance.objects.NoteBook;
 
+
+
 public class MyFirstProgram {
     public static void main(String[] args) {
      //   Computer comp = new Computer();
@@ -53,6 +55,9 @@ public class MyFirstProgram {
         }
 
     }
+
+
+
 
 
 }
