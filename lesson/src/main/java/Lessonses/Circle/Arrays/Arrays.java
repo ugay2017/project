@@ -26,6 +26,12 @@ public class Arrays {
 
 
         int [] n={1,2,3,4,5,6};
+int sun = 0;
+for(int x:n){
+    sun+=x;
+}
+
+        System.out.println("Sun = "+sun);
 
 
 
