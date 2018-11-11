@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba19132e-c628-4d5d-948f-93feec2a6b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Lesson25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Imfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Tets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STATICS/Lesson20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STATICS/Lesson20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STRINGBUILDER/Lesson23.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STRINGBUILDER/Lesson23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,86 +33,52 @@
     <session id="-1055322350">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="985" />
+          <entry key="java" value="1244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="985" />
+          <entry key="JAVA" value="1244" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -109,6 +88,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -127,14 +107,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Polimorfism/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Incapsulation/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/Incapsulation/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Abstract/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="491" />
-    <option name="y" value="35" />
+    <option name="x" value="647" />
+    <option name="y" value="150" />
     <option name="width" value="916" />
     <option name="height" value="677" />
   </component>
@@ -181,12 +162,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541858686078" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541935266647" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -287,10 +268,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="491" y="35" width="916" height="677" extended-state="0" />
+    <frame x="618" y="238" width="916" height="677" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27336448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +280,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32844037" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32844037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,45 +356,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="136">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>

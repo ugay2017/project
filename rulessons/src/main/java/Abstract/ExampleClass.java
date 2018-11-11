@@ -1,5 +1,8 @@
 package Abstract;
 
+/*Обычные классы могут наследоваться от абстрактных
+* мжожет быть либо abstract ли final*/
+
 public class ExampleClass {
     void method(){
 Car car = new Ferrary();
