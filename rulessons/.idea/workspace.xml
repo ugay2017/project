@@ -2,24 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba19132e-c628-4d5d-948f-93feec2a6b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Inheritance/Lesson25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Imfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Interfaces/Tets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STATICS/Lesson20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STATICS/Lesson20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STRINGBUILDER/Lesson23.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/STRINGBUILDER/Lesson23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Anonse/Sam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Massives/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Methods/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/Magnitafon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/TempClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Afrd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Hit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Ddvs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Hot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Dosd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Dvds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Preobrazovanie/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Preobrazovanie/Rest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Sedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Polimorfism/v.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Polimorfism/v.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,32 +51,36 @@
     <session id="-1055322350">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1244" />
+          <entry key="java" value="4104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1244" />
+          <entry key="JAVA" value="4104" />
         </counts>
       </usages-collector>
     </session>
@@ -66,19 +88,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="425">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,17 +130,36 @@
         <option value="$PROJECT_DIR$/src/main/java/Polimorfism/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Incapsulation/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/Incapsulation/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Abstract/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Abstract/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Abstract/Sedan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Abstract/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Polimorfism/v.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Peremennaya/Magnitafon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Peremennaya/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Peremennaya/TempClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Methods/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Massives/ArrayExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="647" />
-    <option name="y" value="150" />
+    <option name="x" value="758" />
+    <option name="y" value="305" />
     <option name="width" value="916" />
-    <option name="height" value="677" />
+    <option name="height" value="573" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,12 +204,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541935266647" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542533733921" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -186,13 +228,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polimorfism.Main" />
+  <component name="RunManager" selected="Application.EnumExample">
+    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perechislenia.EnumExample" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polimorfism.*" />
+          <option name="PATTERN" value="Perechislenia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Incapsulation.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Incapsulation.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstract.Main" />
+    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Other" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstract.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +268,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.Main" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors.Run" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Peremennaya.TempClass" />
+      <module name="rulessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Peremennaya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,17 +295,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.TempClass" />
+      <item itemvalue="Application.Other" />
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.EnumExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EnumExample" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Other" />
+        <item itemvalue="Application.TempClass" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,10 +325,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="618" y="238" width="916" height="677" extended-state="0" />
+    <frame x="758" y="305" width="916" height="573" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27336448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29205608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,7 +337,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32844037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40589568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,7 +345,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32844037" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3266055" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32352942" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,12 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,31 +419,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/ExampleClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/Sedan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Abstract/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Polimorfism/v.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Peremennaya/TempClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Peremennaya/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Peremennaya/Magnitafon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Massives/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
 package Lessonses.Circle.Generic;
 
-public class Afrd {
+public class Hot {
 }
