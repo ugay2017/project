@@ -1,4 +1,4 @@
-package Lessonses.Circle.Anonims;
+package Lessonses.Circle.Anonse;
 
  class Mast {
     public void eat() {
@@ -20,7 +20,7 @@ mast.eat();
 
 
         System.out.println("-/*//*");
-/*ANONIMS*/
+/**/
         Mast mast2 = new Mast(){
             public void eat(){
                 System.out.println("OtherAnimal is eating ..");

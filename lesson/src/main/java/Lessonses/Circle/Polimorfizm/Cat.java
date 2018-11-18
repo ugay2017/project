@@ -1,4 +1,4 @@
 package Lessonses.Circle.Polimorfizm;
 
-public class Cat {
+public class Cat extends Animal {
 }
