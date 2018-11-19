@@ -2,42 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba19132e-c628-4d5d-948f-93feec2a6b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Anonse/Sam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Massives/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Methods/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/Magnitafon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Peremennaya/TempClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Afrd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Hit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Ddvs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Hot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Dosd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Dvds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Polimorfizm/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Preobrazovanie/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Preobrazovanie/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OverLoad/Otherload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OverLoad/OverrideExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Perechislenia/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UseStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson/src/main/java/Lessonses/Circle/Generic/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract/Sedan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/SomeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/three/ThirdClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Polimorfism/v.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Polimorfism/v.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/ExampleClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Ferrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Abstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Abstract/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,36 +24,37 @@
     <session id="-1055322350">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="57" />
+          <entry key="java" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4104" />
+          <entry key="java" value="5966" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4104" />
+          <entry key="JAVA" value="5966" />
         </counts>
       </usages-collector>
     </session>
@@ -88,19 +62,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UseStatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="107">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,14 +120,21 @@
         <option value="$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/Massives/ArrayExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OverLoad/Otherload.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Box.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Overloading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Perechislenia/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OverLoad/OverrideExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UseStatic.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="758" />
-    <option name="y" value="305" />
-    <option name="width" value="916" />
-    <option name="height" value="573" />
+    <option name="x" value="650" />
+    <option name="y" value="12" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -209,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542533733921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542647322986" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -228,48 +203,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumExample">
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perechislenia.EnumExample" />
+  <component name="RunManager" selected="Application.UseStatic">
+    <configuration name="BoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxDemo" />
       <module name="rulessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Perechislenia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
-      <module name="rulessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Other" />
-      <module name="rulessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructors.Run" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors.Example" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
@@ -281,12 +224,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Peremennaya.TempClass" />
+    <configuration name="OverLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverLoad" />
+      <module name="rulessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverrideExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverLoad.OverrideExample" />
       <module name="rulessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Peremennaya.*" />
+          <option name="PATTERN" value="OverLoad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,20 +244,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseStatic" />
+      <module name="rulessons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.TempClass" />
-      <item itemvalue="Application.Other" />
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.EnumExample" />
+      <item itemvalue="Application.BoxDemo" />
+      <item itemvalue="Application.OverLoad" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.OverrideExample" />
+      <item itemvalue="Application.UseStatic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Other" />
-        <item itemvalue="Application.TempClass" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.UseStatic" />
+        <item itemvalue="Application.OverrideExample" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.OverLoad" />
+        <item itemvalue="Application.BoxDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -325,10 +282,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="305" width="916" height="573" extended-state="0" />
-    <editor active="true" />
+    <frame x="650" y="12" width="683" height="728" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29205608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.434992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,15 +293,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40589568" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28691274" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32844037" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.454698" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32352942" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3204698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -359,16 +315,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/UseStatic.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -402,20 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -462,22 +409,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Modifiers/two/OtherClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -527,27 +460,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/Example.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Incapsulation/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
           <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -558,19 +506,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/EnumExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISomeInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OverLoad/Otherload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Overloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#43#44#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/ConstructorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OverLoad/OverrideExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Perechislenia/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#61#62#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UseStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
         </state>
       </provider>
