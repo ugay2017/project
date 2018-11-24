@@ -17,6 +17,18 @@ public class Main {
 
         test(list);
         test(list2);
+
+        Integer i = new Integer(432);
+        String s = i.toString();
+        System.out.println(s);
+
+        Integer j = new Integer("2345");
+        Integer g = j.valueOf("223");
+        System.out.println(g);
+
+        Number n1 = new Double(2.34);
+        Integer r = n1.intValue();
+        System.out.println(r);
     }
 
     public static void test(List<? extends Hit> list) {
