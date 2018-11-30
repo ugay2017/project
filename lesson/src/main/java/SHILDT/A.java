@@ -25,7 +25,7 @@ class SimpleInheritance {
         A superOb = new A();
         B subOb  = new B();
 
-        //СУПЕР Бл. может использоваться самостоятельно
+        //СУПЕР  может использоваться самостоятельно
         superOb.i = 10;
         superOb.j = 20;
         System.out.println("Sodergimoe object superOb");
